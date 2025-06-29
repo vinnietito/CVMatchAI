@@ -1,0 +1,21 @@
+{
+  "name": "cvmatchai",
+  "version": "1.0.0",
+  "description": "Smart Job Application Analyzer (AI + MERN) - Users upload their CV and a job description. The system uses AI to analyze match %, suggest improvements, and generate tailored cover letters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinnietito/CVMatchAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinnietito/CVMatchAI/issues"
+  },
+  "homepage": "https://github.com/vinnietito/CVMatchAI#readme"
+}
